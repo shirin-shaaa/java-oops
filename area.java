@@ -7,7 +7,7 @@ class shape{
 	}
 	public void area(int side){
 	 int area = side * side;
-	 System.out.println("Area of Squre is: "+area);
+	 System.out.println("Area of Square is: "+area);
 	}
 	public void area(int length,int breadth){
 	 int area = length * breadth;
